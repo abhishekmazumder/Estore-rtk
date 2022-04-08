@@ -1,0 +1,18 @@
+header {
+	background-color: #131912;
+	padding-top: 10px;
+}
+
+.menu__list {
+	display: flex;
+	justify-content: space-evenly;
+	list-style: none;
+	li {
+		display: inline-block;
+
+		a {
+			color: white;
+			text-decoration: none;
+		}
+	}
+}
